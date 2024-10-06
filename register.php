@@ -7,7 +7,7 @@ require './assets/includes/header.php'
     <main class="form-signin w-100 m-auto bg-white shadow rounded">
         <form>
             <div class="d-flex gap-2 justify-content-center">
-                <img class="mb-4" src="logo.png" alt="" height="70">
+                <img class="mb-4" src="./assets/images/logo.png" alt="" height="70">
 
                 <div>
                     <h1 class="h3 fw-normal my-1"><b>CV</b> Maker</h1>
